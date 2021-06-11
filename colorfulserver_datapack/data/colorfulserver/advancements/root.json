@@ -1,0 +1,18 @@
+{
+  "display": {
+    "title": "ColorfulServer",
+    "description": "¡Bienvenido a ColorfulServer!",
+    "icon": {
+      "item": "minecraft:player_head",
+      "nbt": "{SkullOwner:{Name: \"ColofulPanic\", Properties: {textures: [{Value: \"ewogICJ0aW1lc3RhbXAiIDogMTYxNjExMDI4MjM5NiwKICAicHJvZmlsZUlkIiA6ICIzOWEzOTMzZWE4MjU0OGU3ODQwNzQ1YzBjNGY3MjU2ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkZW1pbmVjcmFmdGVybG9sIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZjOGUyZjEyMTM5ZGFiMTFmMWZjNmY5MDQ4ZWI3NWE1MGYzYTQzMGZiOGVlOWZmMDhjNDUyYjNlNGY2YmVhYTgiCiAgICB9CiAgfQp9\"}]}}}"
+    },
+    "background": "minecraft:textures/block/pink_concrete_powder.png",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

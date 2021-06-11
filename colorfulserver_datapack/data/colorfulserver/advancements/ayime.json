@@ -1,0 +1,30 @@
+{
+  "display": {
+    "title": {
+      "text": "Logro Secreto de Ayime",
+      "color": "green"
+    },
+    "description": [
+      "",
+      {
+        "text": "Solo Ayime12 Puede ver este logro\n",
+        "color": "gold"
+      },
+      { "text": "\n", "color": "white" },
+      { "text": "El #1 de la Galaxia\n", "color": "white" }
+    ],
+    "icon": {
+      "item": "minecraft:player_head",
+      "nbt": "{SkullOwner:{Name: \"ayime12\", Properties: {textures: [{Value: \"ewogICJ0aW1lc3RhbXAiIDogMTYxNjE3OTc4OTY2NSwKICAicHJvZmlsZUlkIiA6ICIwZjczMDA3NjEyNGU0NGM3YWYxMTE1NDY5YzQ5OTY3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPcmVfTWluZXIxMjMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTAyZTY0YTk0MDlhM2VjZTE0ODg0YTg0NTNhNjg0MDRiMTlkNDNjOGUyNmYwZTVlOWE4ZDY1NzM2NDYwMWRjYyIKICAgIH0KICB9Cn0=\"}]}}}"
+    },
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "colorfulserver:logros",
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
